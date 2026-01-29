@@ -1,16 +1,13 @@
-## Hi there 👋
 
-<!--
-**explysm/explysm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# hi, I'm explysm!
 
-Here are some ideas to get you started:
+Self inspired VibeCoder who just does it for fun. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### My prime languages
+- GDScript 🤖 
+- C# 👁️🔪
+### Important projects
+- [MoltBot Termux](https://github.com/explysm/moltbot-termux)
+ > Fork of MoltBot specifically optimized for Termux.
+- [FireCord](https://github.com/explysm/firecord)
+ > Fork of ShiggyCord made for personal use
