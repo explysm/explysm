@@ -1,17 +1,12 @@
 
 # hi, I'm explysm!
 
-Self inspired VibeCoder who just does it for fun. 
+Self inspired VibeCoder who just does it for fun. (I do have an understanding of code though!)
 
-<center>
-  <div>
-   <h3>Stoat</h3><br>
-   ![Explysm's Stoat user profile](./assets/stoat.png)
-   <br>
-   <h4>Box (Stoat Server)</h4><br>
-   <p>https://stt.gg/yj4VAHWN</p>
-  </div>
-</center>
+### Stoat
+![Explysm's Stoat user profile](https://raw.githubusercontent.com/explysm/explysm/refs/heads/main/assets/stoat.png)
+<p>Stoat Server: https://stt.gg/yj4VAHWN</p>
+  
 
 ### My prime languages
 - GDScript 🤖 
