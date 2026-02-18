@@ -1,16 +1,29 @@
-
+dev.explysm
 # hi, I'm explysm!
 
-Self inspired VibeCoder who just does it for fun. (I do have an understanding of code though!)
+Self-inspired VibeCoder who just does it for fun. (I do have an understanding of code though!)
 
-### Stoat
-![Explysm's Stoat user profile](https://raw.githubusercontent.com/explysm/explysm/refs/heads/main/assets/stoat.png)
-<p>Stoat Server: https://stt.gg/yj4VAHWN</p>
-  
+Btw most of my projects are just random shit that i thought would be cool to make.
 
-### My prime languages
-- GDScript 🤖 
-- C# 👁️🔪
-### Important projects
-- [Discord Things](https://github.com/explysm/discord-things)
-> Collection of various things for discord. (i.e fonts, clients)
+---
+
+## Tech
+
+**Favorites:**
+- GDScript 🤖
+- C# 🔪
+
+---
+
+## Projects
+
+| Project | Description |
+|---------|-------------|
+| [Discord Things](https://github.com/explysm/discord-things) | Collection of various Discord utilities (fonts, clients, etc.) |
+
+---
+
+## Socials
+
+- **Discord:** .x.v.c.
+- **Stoat:** ![Explysm's Stoat user profile](https://raw.githubusercontent.com/explysm/explysm/refs/heads/main/assets/stoat.png)
