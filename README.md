@@ -1,8 +1,6 @@
 dev.explysm
 # hi, I'm explysm!
 
-Self-inspired VibeCoder who just does it for fun. (I do have an understanding of code though!)
-
 Btw most of my projects are just random shit that i thought would be cool to make.
 
 ---
