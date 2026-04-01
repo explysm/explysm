@@ -1,4 +1,5 @@
-dev.explysm
+![header](assets/ah.png)
+
 # hi, I'm explysm!
 
 Btw most of my projects are just random shit that i thought would be cool to make.
@@ -24,4 +25,3 @@ Btw most of my projects are just random shit that i thought would be cool to mak
 ## Socials
 
 - **Discord:** .x.v.c.
-- **Stoat:** ![Explysm's Stoat user profile](https://raw.githubusercontent.com/explysm/explysm/refs/heads/main/assets/stoat.png)
